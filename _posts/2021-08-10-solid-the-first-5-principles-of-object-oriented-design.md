@@ -380,9 +380,7 @@ class LightBulb implements Switchable {
         //...
     }
 }
-```
 
-```java
 class Fan implements Switchable {
 
     @Override
